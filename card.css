@@ -28,7 +28,7 @@ h2{
 .card .avatar {
     box-shadow: rgba(0, 0, 0, .1) 0 10px 10px;
     width: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
     margin-top: -50px;
 }
 
